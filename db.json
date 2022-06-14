@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "name": "Javascript",
+      "level": ["o", "o", "o", "o", ""],
+      "content": "ES6, TypeScript"
+    },
+    {
+      "name": "HTML / CSS",
+      "level": ["o", "o", "o", "o", ""],
+      "content": ""
+    },
+    {
+      "name": "Node.js",
+      "level": ["o", "o", "", "", ""],
+      "content": "Node.js"
+    },
+    {
+      "name": "PHP",
+      "level": ["o", "o", "o", "", ""],
+      "content": "かつてよく書いた"
+    },
+    {
+      "name": "Java",
+      "level": ["o", "o", "", "", ""],
+      "content": "既存システムの保守に2年ほど従事"
+    },
+    {
+      "name": "Ruby",
+      "level": ["o", "", "", "", ""],
+      "content": "機会があればちょこっと書く程度"
+    },
+    {
+      "name": "React + Redux",
+      "level": ["o", "o", "o", "", ""],
+      "content": "Styled-component, Storybook"
+    },
+    {
+      "name": "CakePHP",
+      "level": ["o", "o", "", "", ""],
+      "content": ""
+    },
+    {
+      "name": "WordPress",
+      "level": ["o", "o", "o", "", ""],
+      "content": "テーマ・プラグイン開発など"
+    },
+    {
+      "name": "Action Script",
+      "level": ["o", "o", "o", "o", ""],
+      "content": "数多くの実績を積みました"
+    }
+  ]
+}
