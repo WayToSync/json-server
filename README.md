@@ -1,8 +1,6 @@
 # How to use this project
 
-Use `npm run lint-fix` to use the linter
-
-Launch the project with `npm run start`
+Launch the project with `yarn start`
 
 The server will run on the [localhost 3006](http://localhost:3006)
 
